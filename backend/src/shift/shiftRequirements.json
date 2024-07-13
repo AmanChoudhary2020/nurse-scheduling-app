@@ -1,0 +1,74 @@
+{
+  "shiftRequirements": [
+    {
+      "shift": "day",
+      "nursesRequired": "2",
+      "dayOfWeek": "Monday"
+    },
+    {
+      "shift": "night",
+      "nursesRequired": "2",
+      "dayOfWeek": "Monday"
+    },
+    {
+      "shift": "day",
+      "nursesRequired": "3",
+      "dayOfWeek": "Tuesday"
+    },
+    {
+      "shift": "night",
+      "nursesRequired": "3",
+      "dayOfWeek": "Tuesday"
+    },
+    {
+      "shift": "day",
+      "nursesRequired": "2",
+      "dayOfWeek": "Wednesday"
+    },
+    {
+      "shift": "night",
+      "nursesRequired": "2",
+      "dayOfWeek": "Wednesday"
+    },
+    {
+      "shift": "day",
+      "nursesRequired": "4",
+      "dayOfWeek": "Thursday"
+    },
+    {
+      "shift": "night",
+      "nursesRequired": "3",
+      "dayOfWeek": "Thursday"
+    },
+    {
+      "shift": "day",
+      "nursesRequired": "4",
+      "dayOfWeek": "Friday"
+    },
+    {
+      "shift": "night",
+      "nursesRequired": "5",
+      "dayOfWeek": "Friday"
+    },
+    {
+      "shift": "day",
+      "nursesRequired": "4",
+      "dayOfWeek": "Saturday"
+    },
+    {
+      "shift": "night",
+      "nursesRequired": "5",
+      "dayOfWeek": "Saturday"
+    },
+    {
+      "shift": "day",
+      "nursesRequired": "4",
+      "dayOfWeek": "Sunday"
+    },
+    {
+      "shift": "night",
+      "nursesRequired": "3",
+      "dayOfWeek": "Sunday"
+    }
+  ]
+}
