@@ -1,6 +1,6 @@
 ## Introduction
 
-I developed a mini-scheduling system for nurses that incorporates shift requirements and preferences. The project involved full-stack TypeScript development, using NestJS for the backend and Vite with React for the frontend.
+I developed a mini-scheduling system for nurses that incorporates shift requirements and preferences. The project involved full-stack TypeScript development, using NestJS and MySQL for the backend, Vite with React for the frontend.
 
 ## The exercise
 My mini-scheduling system generates a simple weekly schedule based on shift requirements and nurse preferences.
